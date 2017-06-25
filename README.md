@@ -1,4 +1,4 @@
-# Sharelock Hoaw - Time to Investigate !
+# Sharelock Hoax - Time to Investigate !
 
 This project is the technical result of our idea provided for the Global AI Hackaton Challenge (June 2017). We aim to provide a "truth indicator", able to give a score for a given post/document.
 
