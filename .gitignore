@@ -22,6 +22,7 @@ var/
 facebookenv/
 src/python-tf-idf
 src/.ipynb_checkpoints
+src/tfidy.py
 wheels/
 *.egg-info/
 .installed.cfg
